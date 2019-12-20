@@ -1,0 +1,10 @@
+{
+  "commitish" : "5.0.0",
+  "iOS" : [
+    {
+      "name" : "Kanna",
+      "hash" : "785b968576e7b2f702d093a08130b41d7ca7e1b102c37f93b4f782f76d0a5abc",
+      "swiftToolchainVersion" : "5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+    }
+  ]
+}
